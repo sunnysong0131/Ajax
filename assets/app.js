@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 var animals = ['dog','rabbit','cat','hamster','skunk','goldfish','bird','dragon'];
 
 function renderButtons(){ 
@@ -74,7 +74,6 @@ $(document).on('click', 'button.animal', function(){
 
 		//------
 		})
-=======
 var animals = ['dog','rabbit','cat','hamster','skunk','goldfish','bird','dragon'];
 
 function renderButtons(){ 
@@ -150,5 +149,5 @@ $(document).on('click', 'button.animal', function(){
 
 		//------
 		})
->>>>>>> e41f43e23d21ea54e51364d1654640c74088bb5b
-	});
+	})
+});
